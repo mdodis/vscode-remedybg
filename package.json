@@ -2,6 +2,9 @@
   "name": "vscode-remedybg",
   "displayName": "vscode-remedybg",
   "description": "Integration with RemedyBG Debugger for Windows",
+  "author": "Michael Dodis",
+  "repository": "https://github.com/mdodis/vscode-remedybg",
+  "publisher": "mdodis",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
